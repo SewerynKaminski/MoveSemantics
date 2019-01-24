@@ -1,5 +1,5 @@
 # MoveSemantics
-Move semantics experiment
+Move semantics experiment in C++11
 
 Example output (**USEMOVE=1**):
 ```
