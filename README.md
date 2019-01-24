@@ -1,5 +1,7 @@
 # MoveSemantics
 Move semantics experiment
+
+Example output:
 ```
 Move semantics
 
